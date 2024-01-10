@@ -7,8 +7,8 @@ class GoodGoodDogTestDrive {
         GoodDog two = new GoodDog();
         two.setSize(8);
 
-        System.out.println("Dog one: "+one.getSize());
-        System.out.println("Dog two: "+two.getSize());
+        System.out.println("Dog one: " + one.getSize());
+        System.out.println("Dog two: " + two.getSize());
         one.bark();
         two.bark();
     }
