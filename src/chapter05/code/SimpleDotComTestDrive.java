@@ -1,9 +1,5 @@
 package chapter05.code;
 
-import jdk.nashorn.internal.objects.annotations.Where;
-
-import javax.xml.transform.Result;
-
 public class SimpleDotComTestDrive {
     public static void main(String[] args) {
         int numOfGuess = 0;
